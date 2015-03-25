@@ -1,0 +1,18 @@
+C:\Users\Krishnan\Dropbox\Projects\MCRC Client Database\MCRC Client Database\bin\Debug\MCRC Client Database.exe
+C:\Users\Krishnan\Dropbox\Projects\MCRC Client Database\MCRC Client Database\bin\Debug\MCRC Client Database.pdb
+C:\Users\Krishnan\Dropbox\Projects\MCRC Client Database\MCRC Client Database\obj\x86\Debug\MCRC_Client_Database.Form1.resources
+C:\Users\Krishnan\Dropbox\Projects\MCRC Client Database\MCRC Client Database\obj\x86\Debug\MCRC_Client_Database.Properties.Resources.resources
+C:\Users\Krishnan\Dropbox\Projects\MCRC Client Database\MCRC Client Database\obj\x86\Debug\MCRC Client Database.exe
+C:\Users\Krishnan\Dropbox\Projects\MCRC Client Database\MCRC Client Database\obj\x86\Debug\MCRC Client Database.pdb
+C:\Users\Krishnan\Dropbox\Projects\MCRC Client Database\MCRC Client Database\obj\x86\Debug\MCRC_Client_Database.charted_data.resources
+C:\Users\krishnan\Desktop\MCRC Client Database\MCRC Client Database\obj\x86\Debug\MCRC Client Database.exe
+C:\Users\krishnan\Desktop\MCRC Client Database\MCRC Client Database\obj\x86\Debug\MCRC Client Database.pdb
+C:\Users\krishnan\Desktop\MCRC Client Database\MCRC Client Database\bin\Debug\MCRC Client Database.exe
+C:\Users\krishnan\Desktop\MCRC Client Database\MCRC Client Database\bin\Debug\MCRC Client Database.pdb
+C:\Users\krishnan\Desktop\MCRC Client Database\MCRC Client Database\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\krishnan\Desktop\MCRC Client Database\MCRC Client Database\obj\x86\Debug\MCRC_Client_Database.charted_data.resources
+C:\Users\krishnan\Desktop\MCRC Client Database\MCRC Client Database\obj\x86\Debug\MCRC_Client_Database.Form1.resources
+C:\Users\krishnan\Desktop\MCRC Client Database\MCRC Client Database\obj\x86\Debug\MCRC_Client_Database.Properties.Resources.resources
+C:\Users\krishnan\Desktop\MCRC Client Database\MCRC Client Database\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\krishnan\Desktop\MCRC Client Database\MCRC Client Database\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\krishnan\Dropbox\Projects\MCRC Client Database\MCRC Client Database\obj\x86\Debug\MCRC Client Database.csproj.GenerateResource.Cache
